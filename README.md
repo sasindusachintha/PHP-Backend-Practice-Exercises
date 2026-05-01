@@ -34,7 +34,7 @@ Example:
 
 ### Question 1 — Database Design
 
-![Screenshot](Exercise 01/ss/1%20(2).png)
+![Screenshot](./Exercise%2001/ss/1%20(2).png)
 
 ---
 
