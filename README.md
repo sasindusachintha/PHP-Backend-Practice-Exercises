@@ -53,6 +53,5 @@ Example:
 ---
 
 ## 👨‍💻 Author
-
-Your Name Here
+sasindusachintha
 
