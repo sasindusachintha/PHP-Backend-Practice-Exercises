@@ -59,3 +59,42 @@ Attach the following screenshots:
 
 --
 
+# Question 2 — Identify HTTP Requests (5 Marks)
+
+## 🌐 Task
+Identify which HTTP request methods should be used for the following operations:
+
+---
+
+## 📋 Requirements
+
+1. **Adding a student**  
+2. **Viewing all students**  
+3. **Updating student details**  
+4. **Deleting a student**  
+
+---
+
+## 🧠 Explanation
+
+- **POST** → Used to create new data (add student)  
+- **GET** → Used to retrieve data (view students)  
+- **PUT / PATCH** → Used to update existing data  
+- PUT → full update  
+- PATCH → partial update  
+- **DELETE** → Used to remove data  
+
+---
+
+## 📸 Required Screenshot
+
+## 📊 Answer Table
+
+| Action                    | HTTP Method |
+|--------------------------|------------|
+| Add a student            | POST       |
+| View all students        | GET        |
+| Update student details   | PUT / PATCH|
+| Delete a student         | DELETE     |
+
+---
