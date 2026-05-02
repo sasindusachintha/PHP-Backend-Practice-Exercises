@@ -98,3 +98,19 @@ Identify which HTTP request methods should be used for the following operations:
 | Delete a student         | DELETE     |
 
 ---
+
+# Question 3 — Frontend UI Design (15 Marks)
+
+Create a Bootstrap form for adding a new student.
+
+Form must include all 10 fields with proper labels and placeholders.
+
+## 📋 Requirements:
+
+* Use Bootstrap form controls for styling.
+* Add a submit button labeled “Add Student”.
+* Use HTML5 validation attributes (like required, type="email", etc.).
+
+## 📸 Attach screenshot:
+
+* The complete form displayed in browser.
