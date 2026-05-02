@@ -75,17 +75,6 @@ Identify which HTTP request methods should be used for the following operations:
 
 ---
 
-## 🧠 Explanation
-
-- **POST** → Used to create new data (add student)  
-- **GET** → Used to retrieve data (view students)  
-- **PUT / PATCH** → Used to update existing data  
-- PUT → full update  
-- PATCH → partial update  
-- **DELETE** → Used to remove data  
-
----
-
 ## 📸 Required Screenshot
 
 ## 📊 Answer Table
@@ -96,6 +85,17 @@ Identify which HTTP request methods should be used for the following operations:
 | View all students        | GET        |
 | Update student details   | PUT / PATCH|
 | Delete a student         | DELETE     |
+
+---
+
+## 🧠 Explanation
+
+- **POST** → Used to create new data (add student)  
+- **GET** → Used to retrieve data (view students)  
+- **PUT / PATCH** → Used to update existing data  
+- PUT → full update  
+- PATCH → partial update  
+- **DELETE** → Used to remove data  
 
 ---
 
