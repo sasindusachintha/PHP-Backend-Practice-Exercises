@@ -114,3 +114,17 @@ Form must include all 10 fields with proper labels and placeholders.
 ## 📸 Attach screenshot:
 
 ---
+Question 4 — JavaScript Form Validation (10 Marks)
+
+Add frontend validation using JavaScript.
+
+Checklist:
+•	Alert if required fields are empty.
+•	Validate correct email format.
+•	Validate phone number length (minimum 10 digits).
+
+📸 Attach screenshot:
+•	Code snippet for validation.
+•	Example of validation alert in browser.
+
+---
