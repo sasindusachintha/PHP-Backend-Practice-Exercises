@@ -107,9 +107,9 @@ Form must include all 10 fields with proper labels and placeholders.
 
 ## 📋 Requirements:
 
-* Use Bootstrap form controls for styling.
-* Add a submit button labeled “Add Student”.
-* Use HTML5 validation attributes (like required, type="email", etc.).
+- Use Bootstrap form controls for styling.
+- Add a submit button labeled “Add Student”.
+- Use HTML5 validation attributes (like required, type="email", etc.).
 
 ## 📸 Attach screenshot:
 
@@ -121,9 +121,9 @@ Add frontend validation using JavaScript.
 
 ## Checklist:
 
-•	Alert if required fields are empty.
-•	Validate correct email format.
-•	Validate phone number length (minimum 10 digits).
+- Alert if required fields are empty.
+- Validate correct email format.
+- Validate phone number length (minimum 10 digits).
 
 ## 📸 Attach screenshot:
 
