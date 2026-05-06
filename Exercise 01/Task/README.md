@@ -125,13 +125,20 @@ Add frontend validation using JavaScript.
 ## Checklist:
 
 - Alert if required fields are empty.
+
+![Screenshot](../ss/fillall.png)
+
 - Validate correct email format.
+
+![Screenshot](../ss/emailvalid.png)
+
 - Validate phone number length (minimum 10 digits).
 
-## 📸 Attach screenshot:
+![Screenshot](../ss/phonecheck.png)
+  
+- Code snippet for validation.
 
-•	Code snippet for validation.
-•	Example of validation alert in browser.
+![Screenshot](../ss/jscode.png)
 
 ---
 
