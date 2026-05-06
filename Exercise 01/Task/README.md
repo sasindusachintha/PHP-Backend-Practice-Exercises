@@ -113,6 +113,9 @@ Form must include all 10 fields with proper labels and placeholders.
 
 ## 📸 Attach screenshot:
 
+•	The complete form displayed in browser.
+![Screenshot](../ss/form.png)
+
 ---
 
 # Question 4 — JavaScript Form Validation (10 Marks)
