@@ -131,3 +131,16 @@ Add frontend validation using JavaScript.
 •	Example of validation alert in browser.
 
 ---
+
+# Question 5 — Backend Connection Setup (10 Marks)
+
+Create a file named db_connect.php and connect your project to the student_db database.
+
+## 📋 Requirements:
+
+•	Use mysqli_connect() or PDO.
+•	Display a message if the connection fails.
+
+## 📸 Attach screenshot:
+•	Database connection code.
+•	Proof of successful connection (output message or no error).
