@@ -144,3 +144,5 @@ Create a file named db_connect.php and connect your project to the student_db da
 ## 📸 Attach screenshot:
 •	Database connection code.
 •	Proof of successful connection (output message or no error).
+
+---
