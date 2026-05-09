@@ -161,3 +161,60 @@ Create a file named db_connect.php and connect your project to the student_db da
 ![Screenshot](../ss/dbconnect.png)
 
 ---
+
+Question 6 — Insert Data into Database (15 Marks)
+Create a PHP file (add_student.php) to insert form data into the students table.
+📋 Requirements:
+•	Use POST method.
+•	Sanitize input values.
+•	Display success or error messages.
+📸 Attach screenshot:
+•	Form submission
+•	Alert/message after submission
+•	Data appearing in phpMyAdmin
+________________________________________
+Question 7 — Display All Students (10 Marks)
+Create a PHP page (view_students.php) that displays all students in a Bootstrap table.
+📋 Requirements:
+•	Retrieve data using SELECT query.
+•	Show columns: ID, Name, Email, Phone, Course.
+•	Add styling with Bootstrap.
+📸 Attach screenshot:
+•	Table displayed in browser with actual data.
+________________________________________
+Question 8 — Add Success/Error Alerts (5 Marks)
+Use Bootstrap alert boxes to show messages for success and errors instead of plain JS alerts.
+📸 Attach screenshot:
+•	Alert message appearing after adding data successfully.
+________________________________________
+Question 9 — Optional Challenge: Update and Delete (Extra Marks)
+Add buttons to update and delete student records.
+•	“Edit” button should open form pre-filled with data.
+•	“Delete” button should remove the record after confirmation.
+📸 Attach screenshot:
+•	Edit form view
+•	Delete confirmation
+•	Updated table after edit/delete
+
+
+
+
+
+Question 10 — Project Folder Structure (5 Marks)
+Organize your project files properly.
+Example structure:
+project/
+│
+├── backend/
+│   ├── db_connect.php
+│   ├── add_student.php
+│
+├── index.html
+├── view_students.php
+└── assets/
+    ├── css/
+    ├── js/
+
+📸 Attach screenshot:
+•	Folder structure from your code editor or file explorer.
+
