@@ -148,11 +148,16 @@ Create a file named db_connect.php and connect your project to the student_db da
 
 ## 📋 Requirements:
 
-•	Use mysqli_connect() or PDO.
-•	Display a message if the connection fails.
+- Use mysqli_connect() or PDO.
+- Display a message if the connection fails.
 
 ## 📸 Attach screenshot:
-•	Database connection code.
-•	Proof of successful connection (output message or no error).
+- Database connection code.
+
+![Screenshot](../ss/dbcode.png)
+
+-	Proof of successful connection (output message or no error).
+
+![Screenshot](../ss/dbconnect.png)
 
 ---
