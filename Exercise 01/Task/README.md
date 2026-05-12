@@ -176,7 +176,8 @@ Create a PHP file (add_student.php) to insert form data into the students table.
 •	Alert/message after submission
 •	Data appearing in phpMyAdmin
 
-________________________________________
+---
+
 Question 7 — Display All Students (10 Marks)
 Create a PHP page (view_students.php) that displays all students in a Bootstrap table.
 📋 Requirements:
