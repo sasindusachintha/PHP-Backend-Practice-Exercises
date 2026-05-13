@@ -186,8 +186,10 @@ Create a PHP page (view_students.php) that displays all students in a Bootstrap 
 •	Retrieve data using SELECT query.
 •	Show columns: ID, Name, Email, Phone, Course.
 •	Add styling with Bootstrap.
+
 📸 Attach screenshot:
 •	Table displayed in browser with actual data.
+
 ________________________________________
 Question 8 — Add Success/Error Alerts (5 Marks)
 Use Bootstrap alert boxes to show messages for success and errors instead of plain JS alerts.
