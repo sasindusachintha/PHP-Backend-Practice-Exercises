@@ -179,7 +179,9 @@ Create a PHP file (add_student.php) to insert form data into the students table.
 ---
 
 Question 7 — Display All Students (10 Marks)
+
 Create a PHP page (view_students.php) that displays all students in a Bootstrap table.
+
 📋 Requirements:
 •	Retrieve data using SELECT query.
 •	Show columns: ID, Name, Email, Phone, Course.
