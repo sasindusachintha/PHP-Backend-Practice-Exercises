@@ -191,11 +191,15 @@ Create a PHP page (view_students.php) that displays all students in a Bootstrap 
 •	Table displayed in browser with actual data.
 
 ________________________________________
+
 Question 8 — Add Success/Error Alerts (5 Marks)
+
 Use Bootstrap alert boxes to show messages for success and errors instead of plain JS alerts.
+
 📸 Attach screenshot:
 •	Alert message appearing after adding data successfully.
 ________________________________________
+
 Question 9 — Optional Challenge: Update and Delete (Extra Marks)
 Add buttons to update and delete student records.
 •	“Edit” button should open form pre-filled with data.
