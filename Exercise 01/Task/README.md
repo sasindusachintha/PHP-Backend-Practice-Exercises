@@ -198,20 +198,20 @@ Use Bootstrap alert boxes to show messages for success and errors instead of pla
 
 📸 Attach screenshot:
 •	Alert message appearing after adding data successfully.
+
 ________________________________________
 
 Question 9 — Optional Challenge: Update and Delete (Extra Marks)
+
 Add buttons to update and delete student records.
+
 •	“Edit” button should open form pre-filled with data.
 •	“Delete” button should remove the record after confirmation.
+
 📸 Attach screenshot:
 •	Edit form view
 •	Delete confirmation
 •	Updated table after edit/delete
-
-
-
-
 
 Question 10 — Project Folder Structure (5 Marks)
 Organize your project files properly.
