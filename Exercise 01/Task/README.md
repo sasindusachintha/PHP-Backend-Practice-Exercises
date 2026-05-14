@@ -213,9 +213,13 @@ Add buttons to update and delete student records.
 •	Delete confirmation
 •	Updated table after edit/delete
 
+---
+
 Question 10 — Project Folder Structure (5 Marks)
+
 Organize your project files properly.
 Example structure:
+
 project/
 │
 ├── backend/
@@ -231,3 +235,4 @@ project/
 📸 Attach screenshot:
 •	Folder structure from your code editor or file explorer.
 
+---
