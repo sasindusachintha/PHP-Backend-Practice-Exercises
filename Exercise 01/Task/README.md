@@ -190,7 +190,7 @@ Create a PHP page (view_students.php) that displays all students in a Bootstrap 
 📸 Attach screenshot:
 •	Table displayed in browser with actual data.
 
-________________________________________
+---
 
 Question 8 — Add Success/Error Alerts (5 Marks)
 
