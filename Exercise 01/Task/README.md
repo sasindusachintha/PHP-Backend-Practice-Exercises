@@ -199,7 +199,7 @@ Use Bootstrap alert boxes to show messages for success and errors instead of pla
 📸 Attach screenshot:
 •	Alert message appearing after adding data successfully.
 
-________________________________________
+---
 
 Question 9 — Optional Challenge: Update and Delete (Extra Marks)
 
