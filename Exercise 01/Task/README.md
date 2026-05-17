@@ -218,6 +218,7 @@ Add buttons to update and delete student records.
 Question 10 — Project Folder Structure (5 Marks)
 
 Organize your project files properly.
+
 Example structure:
 project/
 │
