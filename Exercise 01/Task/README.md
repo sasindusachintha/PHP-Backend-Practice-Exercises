@@ -167,6 +167,7 @@ Question 6 — Insert Data into Database (15 Marks)
 Create a PHP file (add_student.php) to insert form data into the students table.
 
 📋 Requirements:
+
 •	Use POST method.
 •	Sanitize input values.
 •	Display success or error messages.
