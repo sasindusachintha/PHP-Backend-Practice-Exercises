@@ -198,6 +198,7 @@ Question 8 — Add Success/Error Alerts (5 Marks)
 Use Bootstrap alert boxes to show messages for success and errors instead of plain JS alerts.
 
 📸 Attach screenshot:
+
 •	Alert message appearing after adding data successfully.
 
 ---
