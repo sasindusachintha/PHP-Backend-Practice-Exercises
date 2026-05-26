@@ -163,7 +163,6 @@ Create a file named db_connect.php and connect your project to the student_db da
 ---
 
 Question 6 — Insert Data into Database (15 Marks)
-
 Create a PHP file (add_student.php) to insert form data into the students table.
 
 📋 Requirements:
