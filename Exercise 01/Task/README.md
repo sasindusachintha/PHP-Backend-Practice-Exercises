@@ -235,7 +235,6 @@ project/
     ├── js/
 
 📸 Attach screenshot:
-
 •	Folder structure from your code editor or file explorer.
 
 ---
