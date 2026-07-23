@@ -10,7 +10,6 @@ This repository contains 4 practical exercises based on building a Student Manag
 ---
 
 ## 📘 Exercises Included
-
 * Exercise 01 — Student Management System
 * Exercise 02 — [ title]
 * Exercise 03 — [ title]
