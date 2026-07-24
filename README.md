@@ -35,7 +35,6 @@ Example:
 ---
 
 ## 🚀 How to Run
-
 1. Install XAMPP / WAMP
 2. Start Apache & MySQL
 3. Import database in phpMyAdmin
