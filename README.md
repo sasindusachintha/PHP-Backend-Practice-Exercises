@@ -39,7 +39,6 @@ Example:
 3. Import database in phpMyAdmin
 4. Place project in `htdocs`
 5. Open in browser:
-
    ```
    http://localhost/student-management-system-php
    ```
