@@ -28,7 +28,6 @@ This repository contains 4 practical exercises based on building a Student Manag
 ## 📸 Screenshots
 
 Example:
-
 ### Question 1 — Database Design
 
 ![Screenshot](./Exercise%2001/ss/1%20(2).png)
