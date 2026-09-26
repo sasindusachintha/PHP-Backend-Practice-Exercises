@@ -4,7 +4,7 @@
 This repository contains 4 practical exercises based on building a Student Management System using:
 * HTML, CSS (Bootstrap).
 * JavaScript.
-* PHP
+* PHP.
 * MySQL
 
 ---
