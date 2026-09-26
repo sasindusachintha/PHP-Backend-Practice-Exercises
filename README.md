@@ -5,7 +5,7 @@ This repository contains 4 practical exercises based on building a Student Manag
 * HTML, CSS (Bootstrap).
 * JavaScript.
 * PHP.
-* MySQL
+* MySQL.
 
 ---
 
